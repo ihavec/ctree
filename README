@@ -1,0 +1,4 @@
+Ctree is the core data structure of Btrfs.
+
+Reference:
+B-trees, Shadowing, and Clones. (http://www.usenix.org/event/lsf07/tech/rodeh.pdf)
